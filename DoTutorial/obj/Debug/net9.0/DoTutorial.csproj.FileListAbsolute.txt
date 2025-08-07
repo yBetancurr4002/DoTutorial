@@ -1,0 +1,15 @@
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\DoTutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\DoTutorial.AssemblyInfoInputs.cache
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\DoTutorial.AssemblyInfo.cs
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\DoTutorial.csproj.CoreCompileInputs.cache
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\DoTutorial.sourcelink.json
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\bin\Debug\net9.0\DoTutorial.exe
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\bin\Debug\net9.0\DoTutorial.deps.json
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\bin\Debug\net9.0\DoTutorial.runtimeconfig.json
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\bin\Debug\net9.0\DoTutorial.dll
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\bin\Debug\net9.0\DoTutorial.pdb
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\DoTutorial.dll
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\refint\DoTutorial.dll
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\DoTutorial.pdb
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\DoTutorial.genruntimeconfig.cache
+C:\Users\yeiso\Documents\Docencia\Proyectos\01_DoTutorial\DoTutorial\DoTutorial\obj\Debug\net9.0\ref\DoTutorial.dll
